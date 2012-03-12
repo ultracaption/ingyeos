@@ -1,0 +1,23 @@
+{
+  "name": "ingyeos",
+  "description": "Tracks online users subscribing Juggernaut channels",
+  "version": "0.0.1",
+  "author": "Hoseong Hwang <thefron@wafflestudio.com> (http://thefron.me)",
+  "main": "./index",
+  "private": true,
+  "bin": {
+    "ingyeos": "./main.js"
+  },
+  "dependencies": {
+    "redis": "=0.6.6",
+    "underscore": "1.x.x"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "repository": {
+    "url": ""
+  }
+}
