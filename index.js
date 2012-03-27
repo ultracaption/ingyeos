@@ -1,1 +1,1 @@
-module.exports = require("./lib/ingyeos");
+module.exports = require('./lib/ingyeos');

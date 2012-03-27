@@ -10,7 +10,8 @@
   },
   "dependencies": {
     "redis": "=0.6.6",
-    "underscore": "1.x.x"
+    "underscore": "1.x.x",
+    "async": "0.1.18"
   },
   "devDependencies": {},
   "optionalDependencies": {},
